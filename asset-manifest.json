@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Messaging-app-client-side-ReactJS/static/css/main.0a5b3bc8.chunk.css",
+    "main.js": "/Messaging-app-client-side-ReactJS/static/js/main.19f7b5b3.chunk.js",
+    "main.js.map": "/Messaging-app-client-side-ReactJS/static/js/main.19f7b5b3.chunk.js.map",
+    "runtime-main.js": "/Messaging-app-client-side-ReactJS/static/js/runtime-main.d9f4a199.js",
+    "runtime-main.js.map": "/Messaging-app-client-side-ReactJS/static/js/runtime-main.d9f4a199.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/Messaging-app-client-side-ReactJS/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.c45ea33f.chunk.js": "/Messaging-app-client-side-ReactJS/static/js/2.c45ea33f.chunk.js",
+    "static/js/2.c45ea33f.chunk.js.map": "/Messaging-app-client-side-ReactJS/static/js/2.c45ea33f.chunk.js.map",
+    "index.html": "/Messaging-app-client-side-ReactJS/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/Messaging-app-client-side-ReactJS/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.0a5b3bc8.chunk.css.map": "/Messaging-app-client-side-ReactJS/static/css/main.0a5b3bc8.chunk.css.map",
+    "static/js/2.c45ea33f.chunk.js.LICENSE.txt": "/Messaging-app-client-side-ReactJS/static/js/2.c45ea33f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9f4a199.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.c45ea33f.chunk.js",
+    "static/css/main.0a5b3bc8.chunk.css",
+    "static/js/main.19f7b5b3.chunk.js"
+  ]
+}
